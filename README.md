@@ -14,4 +14,4 @@ I engineer premium digital experiences from the database to the deployment. I be
 
 ### 📫 How to reach me:
 * **Email:** [mohamed.y.genedi@gmail.com]
-* **LinkedIn:** [[Your LinkedIn Link Here](https://www.linkedin.com/in/mohamed-yasser-8a0b43278/)]
+* **LinkedIn:** [[ https://www.linkedin.com/in/mohamed-yasser-8a0b43278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohamed-yasser-8a0b43278/)]
