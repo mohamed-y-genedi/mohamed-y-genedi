@@ -9,9 +9,9 @@ I engineer premium digital experiences from the database to the deployment. I be
 * ⚡ **Fun fact:** I love dissecting how systems work, whether it's software architecture or biological systems!
 
 ### 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3, Vanilla JS, React/Next.js (Exploring)  
-**Backend & Tools:** Git, GitHub, RESTful APIs
+* **Frontend:** HTML5, CSS3, Vanilla JS, React/Next.js (Exploring)
+* **Backend & Tools:** Git, GitHub, RESTful APIs
 
 ### 📫 How to reach me:
-* **Email:** [mohamed.y.genedi@gmail.com]
-* **LinkedIn:** [[ https://www.linkedin.com/in/mohamed-yasser-8a0b43278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohamed-yasser-8a0b43278/)]
+* 📧 **Email:** [mohamed.y.genedi@gmail.com](mailto:mohamed.y.genedi@gmail.com)
+* 💼 **LinkedIn:** [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-8a0b43278/)
