@@ -15,3 +15,9 @@ I engineer premium digital experiences from the database to the deployment. I be
 ### 📫 How to reach me:
 * 📧 **Email:** [mohamed.y.genedi@gmail.com](mailto:mohamed.y.genedi@gmail.com)
 * 💼 **LinkedIn:** [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-8a0b43278/)
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-y-genedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-y-genedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" height="192px"/>
+</div>
